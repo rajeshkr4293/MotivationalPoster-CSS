@@ -1,0 +1,28 @@
+img{
+    height: 200px;
+    width: 200px;
+    border: 10px solid red;
+    
+    
+}
+
+#div1{
+    background-color: black;
+    margin-left: 100px;
+    padding: 80px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+h1{
+    color: red;
+}
+
+p{
+    color: blue;
+}
+
+
+html{
+    background-color: black;
+}
